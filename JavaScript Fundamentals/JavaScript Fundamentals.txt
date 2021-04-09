@@ -1,0 +1,9 @@
+##A##Topics:
+1)Varibale         : int,string,float,boolean;
+2)Conditionals: if,else if,else.
+3)Array:
+4)Loop: while, for.
+5)Functions:
+6)Object:
+
+
